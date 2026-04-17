@@ -1,2 +1,6 @@
-# ios20
-Generated landing page: ios20
+# Apple Gift Card
+
+Generated automatically from your builder.
+
+## Live URL
+https://samw-del.github.io/ios20/
