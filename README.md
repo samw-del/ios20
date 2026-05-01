@@ -1,2 +1,3 @@
-# ios20
-Generated landing page: ios20
+# Apple Gift Card
+
+Generated landing page.
